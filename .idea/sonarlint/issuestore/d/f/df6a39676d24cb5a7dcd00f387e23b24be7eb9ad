@@ -1,0 +1,7 @@
+
+T
+java:S1155X">Use isEmpty() to check whether the collection is empty or not.(ÖþâÄ
+T
+java:S1155\">Use isEmpty() to check whether the collection is empty or not.(·ÿ°½
+R
+java:S3655!"7Call "Optional#isPresent()" before accessing the value.(°’‹›üÿÿÿÿ

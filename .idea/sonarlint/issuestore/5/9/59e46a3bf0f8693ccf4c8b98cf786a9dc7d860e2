@@ -1,0 +1,11 @@
+
+R
+java:S3655&"7Call "Optional#isPresent()" before accessing the value.(¾ˆ‚šúÿÿÿÿ
+R
+java:S3655W"7Call "Optional#isPresent()" before accessing the value.(Š¤“×ýÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ
+G
+java:S1874M",Remove this use of "Long"; it is deprecated.(¥ü­ïÿÿÿÿÿ
+1
+java:S1116d"Remove this empty statement.(„ø®Z
